@@ -23,6 +23,7 @@
 **Systems Engineer** con enfoque en ciencia de datos e inteligencia artificial. Actualmente cursando **Maestría en Ciencia de Datos (UPB)** y liderando equipos técnicos para construir sistemas inteligentes escalables.
 
 **Resuelvo problemas de:**
+- 🤖 **AI Agents & LLM Engineering** — Agentes inteligentes autónomos con LangChain y LangGraph
 - 🧠 **ML/AI Engineering** — Modelos predictivos en producción, desde prototipo hasta deploy
 - 📊 **Analytics & BI** — Dashboards estratégicos que cuentan historias con datos
 - 🏗️ **Arquitectura de Datos** — Pipelines robustos, escalables y automatizados
@@ -31,6 +32,11 @@
 <br>
 
 ## 🛠️ Stack Tecnológico
+
+### **AI Agents & Automation**
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### **Data Science & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

@@ -2,162 +2,43 @@
   
 # 👋 ¡Hola! Soy Jhon Esteban Velásquez Gómez
 
-### Systems Engineer | Data Scientist | Tech Leader
+### 🎓 Systems Engineer | Data Scientist | Tech Leader
+### 📚 Estudiante de Maestría en Ciencia de Datos - UPB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-esteban-velasquez-gomez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivenvanpersieg@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573023639019)
+[![CV](https://img.shields.io/badge/Ver%20CV%20Completo-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](CV%20Jhon%20Esteban%20Velasquez%20Gomez%202025.pdf)
+
+<br>
+
+> *Apasionado por los datos y la tecnología. Lidero equipos para crear soluciones innovadoras que generan impacto real.*
 
 </div>
 
 ---
 
-## 👨‍💻 Acerca de Mí
+## 🚀 Stack Tecnológico
 
-Soy un **Systems Engineer** apasionado por los datos y la tecnología, con experiencia liderando equipos y proyectos tecnológicos de principio a fin. Mi enfoque está en inspirar equipos multidisciplinarios, fomentando la innovación, colaboración y aprendizaje continuo. Utilizo metodologías ágiles y herramientas avanzadas para entregar soluciones creativas que generan impacto tangible, alineando objetivos estratégicos con resultados medibles.
+<div align="center">
 
-🎯 **Mi objetivo**: Especializarme aún más y liderar proyectos innovadores que transformen desafíos en oportunidades.
+**Lenguajes & Data Science**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
 
----
+**Full Stack Development**  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 
-## 🚀 Tecnologías y Herramientas
-
-### Lenguajes de Programación
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
-
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-</div>
-
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-</div>
-
-### Bases de Datos
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### Cloud & DevOps
-<div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
-### Data Science & AI
-<div>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-</div>
-
-### Herramientas
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-FF6B6B?style=for-the-badge" alt="Web Scraping" />
-</div>
-
----
-
-## 💼 Experiencia Profesional
-
-### 🎯 IT Leader
-**LOKC** | *Septiembre 2024 - Actualidad*
-
-- Desarrollo de soluciones tecnológicas para abordar diversos desafíos empresariales
-- Planificación, coordinación y ejecución de features en el sitio web de la empresa
-- Construcción de funcionalidades con **React**, **Next.js** y **TypeScript**
-- Desarrollo de lógica de negocio mediante servicios backend y APIs usando **Node.js**, **Express**, **Sequelize**, **PostgreSQL** y servicios de **AWS**
-- Liderazgo de equipos de desarrollo en desarrollo web, análisis de datos y diseño gráfico
-- Implementación de soluciones de IA (chatbots con Stifron y nfin) para gestionar clientes a escala
-- Despliegue de herramientas BI para visualizar indicadores empresariales valiosos
-- Diseño y ejecución de estrategias BI y proyectos de análisis de mercado usando web scraping
-
-### 📊 Business Intelligence Analyst
-**LOKC** | *Junio 2024 - Agosto 2024*
-
-- Extracción de datos de múltiples fuentes (bases de datos, APIs, hojas de cálculo, herramientas de marketing)
-- Limpieza y transformación de datos para garantizar calidad y consistencia
-- Automatización de procesos para recolección y preparación de datos
-- Análisis de tendencias, patrones y oportunidades usando herramientas analíticas
-- Identificación de KPIs relevantes para la organización
-- Colaboración con equipos de marketing, ventas, operaciones y finanzas
-
-### 💻 Software Engineer Intern
-**Tuyo S.A** | *Julio 2023 - Agosto 2023*
-
-- Desarrollo de software orientado a soluciones para desafíos empresariales
-- Diseño y desarrollo de programa para gestión de seguros de vida utilizando **React**, **TypeScript** y **SCSS**
-- Aplicación de metodologías ágiles y colaboración usando **GitHub**
-- Propuesta de arquitectura web para soportar diseños dinámicos
-
-### 🌐 Software Engineer
-**Ingenio Matemático** | *Diciembre 2022 - Enero 2023*
-
-- Desarrollo de sitio web enfocado en recreación y aprendizaje para estudiantes
-- Creación de módulos básicos de aprendizaje usando **HTML**, **JavaScript** y **CSS**
-- Integración de videojuegos educativos para mejorar la experiencia de aprendizaje
-
----
-
-## 🎓 Educación y Certificaciones
-
-| Certificación | Institución | Año |
-|--------------|-------------|-----|
-| 🎓 **Systems Engineer** | Luis Amigó Catholic University | 2019 - 2023 |
-| 🧠 **Neural Network Programming** | University of Antioquia | Dic 2023 |
-| 🤖 **Data Science: Artificial Intelligence** | University of Antioquia | Nov 2023 |
-| 🌐 **English - C1 Advanced** | EF SET | Oct 2023 |
-| 📊 **Data Management with Power BI** | Postcol Brown University | Sep 2023 |
-| 🏆 **IBM Data Science Professional Certificate** | IBM - Coursera | Sep 2023 |
-
----
-
-## 📚 Artículos Científicos
-
-- **"Inteligencia Artificial aplicada a la evaluación de riesgo de colapso de viviendas: una revisión de la literatura"**
-  - *Estado: Aprobado* | Cuaderno Active - 2023
-
-- **"Propuesta de Aplicación Web para Alertar sobre Riesgos de Colapso de Viviendas Debido a Fallas Estructurales Usando un Sistema Experto Basado en la Norma NSR-10 en el Valle de Aburrá"**
-  - *Estado: Pendiente* | Cuaderno Active
-
----
-
-## 🛠️ Habilidades Clave
-
-### Técnicas
-- ✅ Web Scraping & Data Mining
-- ✅ Natural Language Processing (NLP)
-- ✅ Machine Learning & Deep Learning
-- ✅ Business Intelligence & Analytics
-- ✅ Automatización de Procesos
-- ✅ Desarrollo Full Stack
-- ✅ Arquitectura de Software
-
-### Blandas
-- 🎯 Liderazgo y Gestión de Equipos
-- 💬 Comunicación Efectiva
-- 📋 Planificación y Organización
-- 🔄 Metodologías Ágiles
-- 🌍 Inglés C1 (Avanzado)
-- 🧠 Autoaprendizaje Continuo
 
 ---
 
@@ -165,27 +46,12 @@ Soy un **Systems Engineer** apasionado por los datos y la tecnología, con exper
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhonnety&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnety&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Jhonnety&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnety&layout=compact&theme=radical&hide_border=true" height="150" />
+
+<br>
+
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Jhonnety&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📞 Contacto
-
-<div align="center">
-
-📧 **Email**: [rivenvanpersieg@gmail.com](mailto:rivenvanpersieg@gmail.com)  
-📱 **Teléfono**: +57 3023639019  
-💼 **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/jhon-esteban-velasquez-gomez)
-
----
-
-⭐ *¡Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios!* ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jhonnety&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -193,6 +59,7 @@ Soy un **Systems Engineer** apasionado por los datos y la tecnología, con exper
 
 <div align="center">
   
-**Hecho con ❤️ por Jhon Esteban Velásquez Gómez**
+**Hecho con ❤️ por Jhon Esteban Velásquez Gómez**  
+![Profile Views](https://komarev.com/ghpvc/?username=Jhonnety&color=blueviolet&style=flat-square)
 
 </div>

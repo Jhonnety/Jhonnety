@@ -5,8 +5,8 @@
 ### 🎓 Systems Engineer | Data Scientist | Tech Leader
 ### 📚 Estudiante de Maestría en Ciencia de Datos - UPB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-esteban-velasquez-gomez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivenvanpersieg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-esteban-velasquez-gomez-a8928a346/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonestebanvelasquezgomez@gmail.com)
 [![CV](https://img.shields.io/badge/Ver%20CV%20Completo-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](CV%20Jhon%20Esteban%20Velasquez%20Gomez%202025.pdf)
 
 <br>

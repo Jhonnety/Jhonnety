@@ -72,31 +72,47 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jhonnety&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_title=false" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnety&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180em" />
+### 🎯 Performance Dashboard
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jhonnety&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=📈%20GitHub%20Stats&border_radius=8" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com?user=Jhonnety&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9&border_radius=8" width="48%" />
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=Jhonnety&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" width="55%" />
+### 🏆 GitHub Trophies & Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jhonnety&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="90%" />
 
 </div>
 
-### 🐍 Contribution Snake Animation
+<br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonnety/Jhonnety/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonnety/Jhonnety/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jhonnety/Jhonnety/output/snake.svg" />
-</picture>
+### 🗓️ Isometric Contribution Graph
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 📈 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonnety&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&area_color=1f6feb&title_color=58a6ff&custom_title=Contribution%20Activity%20Graph&hide_border=true&radius=8" width="95%" />
+
+</div>
+
+<br>
 
 <details>
-<summary><b>📈 Métricas Detalladas</b></summary>
+<summary><b>📊 Métricas Detalladas & Language Breakdown</b></summary>
 
 <br>
 
@@ -106,17 +122,31 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhonnety&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhonnety&theme=github_dark" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnety&layout=donut&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=🔥%20Most%20Used%20Languages&border_radius=8" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhonnety&theme=github_dark" width="48%" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonnety&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhonnety&theme=github_dark&utcOffset=8" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonnety&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhonnety&theme=github_dark&utcOffset=-5" width="48%" />
+
+</div>
+
+<br>
+
+### 📅 Contribution Calendar Heatmap
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/Jhonnety" width="90%" />
 
 </div>
 

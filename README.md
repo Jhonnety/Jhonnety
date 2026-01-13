@@ -68,15 +68,55 @@
 🔄 Metodologías ágiles   → Iteración rápida, feedback constante
 ```
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jhonnety&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_title=false" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnety&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180em" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=Jhonnety&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" width="55%" />
+
+</div>
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonnety/Jhonnety/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonnety/Jhonnety/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jhonnety/Jhonnety/output/snake.svg" />
+</picture>
+
+</div>
+
 <details>
-<summary><b>📈 GitHub Stats</b></summary>
+<summary><b>📈 Métricas Detalladas</b></summary>
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jhonnety&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnety&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonnety&theme=github_dark" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhonnety&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhonnety&theme=github_dark" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonnety&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhonnety&theme=github_dark&utcOffset=8" width="49%" />
 
 </div>
 
